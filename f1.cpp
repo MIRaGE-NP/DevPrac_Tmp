@@ -4,6 +4,6 @@ main()
 {
     int a;
     cin >> a;
-    cout << a * 5;
+    cout << a * 4;
     // cout << "a";
 }
